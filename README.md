@@ -11,6 +11,12 @@ Development and Application of a Household Vehicle Fleet Micro-simulator to Asse
 [http://bridgingtransport.org/] 
 [cache](https://tin6150.github.io/publication/pdf/2023_BTR_CV_Sim.pdf)
 
+# Reports
+
+Enabling Anaerobic Digestion Deployment to Convert Municipal Solid Waste to Energy. Final Project Report for the California Energy Commission.
+[https://www.energy.ca.gov/sites/default/files/2021-05/CEC-500-2020-011.pdf]
+[cache](https://tin6150.github.io/publication/pdf/2020.CEC-500-2020-011.pdf)
+
 
 # Other work with DOI
 
