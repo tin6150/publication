@@ -1,16 +1,16 @@
 # Journal Publications
 
-Development and Application of a Household Vehicle Fleet Micro-simulator to Assess the Impact of Technology Progress and Clean Vehicle Policies on Fleet Turnover and Equity. The fifth Bridging Transportation Researchers (BTR) Online Conference , 9-10 August 2023.
-[http://bridgingtransport.org/] 
-[cache](https://tin6150.github.io/publication/doc/2023_BTR_CV_Sim.pdf)
-
 What Makes You Hold on to That Old Car? Joint Insights From Machine Learning and Multinomial Logit on Vehicle-Level Transaction Decisions. Frontiers in Future Transportation, Volume 3 - 2022
 [https://doi.org/10.3389/ffutr.2022.894654] 
 [cache](https://tin6150.github.io/publication/doc/2022_Frontiers_ML_Vehicle_Transaction.pdf)
 
 
+# Conference & Posters
 
-# Conference Abstracts, Posters
+Development and Application of a Household Vehicle Fleet Micro-simulator to Assess the Impact of Technology Progress and Clean Vehicle Policies on Fleet Turnover and Equity. The fifth Bridging Transportation Researchers (BTR) Online Conference , 9-10 August 2023.
+[http://bridgingtransport.org/] 
+[cache](https://tin6150.github.io/publication/doc/2023_BTR_CV_Sim.pdf)
+
 
 Adjoint Sensitivity Analysis to Determine Potential and Existing Precursor Contributions to Ozone Burdens Under Different Synoptic Events
 Y Wang, L Jin, Q Mayemba, L Bastien, T Ho, NJ Brown… - AGU Fall Meeting Abstracts, 2020
