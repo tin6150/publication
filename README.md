@@ -2,7 +2,7 @@
 
 What Makes You Hold on to That Old Car? Joint Insights From Machine Learning and Multinomial Logit on Vehicle-Level Transaction Decisions. Frontiers in Future Transportation, Volume 3 - 2022
 [https://doi.org/10.3389/ffutr.2022.894654] 
-[cache](https://tin6150.github.io/publication/doc/2022_Frontiers_ML_Vehicle_Transaction.pdf)
+[cache](rm-copyright-concern-https://tin6150.github.io/publication/doc/2022_Frontiers_ML_Vehicle_Transaction.pdf)
 
 
 # Conference & Posters
@@ -41,3 +41,5 @@ My ORCID:
 [0000-0001-9635-1769](https://orcid.org/0000-0001-9635-1769)
 
 
+# TBD
+[cache](rm-copyright-concern)
