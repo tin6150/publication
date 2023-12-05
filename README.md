@@ -15,9 +15,11 @@ Development and Application of a Household Vehicle Fleet Micro-simulator to Asse
 Adjoint Sensitivity Analysis to Determine Potential and Existing Precursor Contributions to Ozone Burdens Under Different Synoptic Events
 Y Wang, L Jin, Q Mayemba, L Bastien, T Ho, NJ Brown… - AGU Fall Meeting Abstracts, 2020
 https://ui.adsabs.harvard.edu/abs/2020AGUFMA146.0001W/abstract
+[cache](https://tin6150.github.io/publication/doc/2020.CEC-500-2020-011.pdf)
 
 Environmental and community impact assessment of operations at an organic waste-to-energy facility
 W Zhou, L Jin, T Ho, NJ Brown, C Preble, MD Sohn… - AGU Fall Meeting 2019, 2019
+[cache](https://tin6150.github.io/publication/doc/2020.CEC-500-2020-011.pdf)
 
 
 
