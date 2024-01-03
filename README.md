@@ -33,14 +33,14 @@ Enabling Anaerobic Digestion Deployment to Convert Municipal Solid Waste to Ener
 How to go from Text / CSV to Interactive Web Map With Minimal Programming.
 Lawrence Berkeley National Laboratory LabTech 2020 Presentation
 Tin Ho, Ling Jin.  
-[cache](https://tin6150.github.io/publication/doc/From_CSV_to_Web_GIS-LabTech2020.pdf)
-[AV recording](https://drive.google.com/file/d/1Z0uFfArhvFeoOnSl2jiSXr5M3nOXf6YY/view)
+[pdf cache](https://tin6150.github.io/publication/doc/From_CSV_to_Web_GIS-LabTech2020.pdf)
+[AV recording cache](https://drive.google.com/file/d/1Z0uFfArhvFeoOnSl2jiSXr5M3nOXf6YY/view)
 
 
 SLURM Quick Start
 Getting started on HPC
 Lawrence Berkeley National Laboratory LabTech 2018 Presentation
-[cache](https://tin6150.github.io/publication/doc/SLURM_QuickStart_LBNL.pdf)
+[pdf cache](https://tin6150.github.io/publication/doc/SLURM_QuickStart_LBNL.pdf)
 
 
 
