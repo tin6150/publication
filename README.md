@@ -28,6 +28,22 @@ Enabling Anaerobic Digestion Deployment to Convert Municipal Solid Waste to Ener
 [cache](https://tin6150.github.io/publication/doc/2020.CEC-500-2020-011.pdf)
 
 
+# Technical Meetings
+
+How to go from Text / CSV to Interactive Web Map With Minimal Programming.
+Lawrence Berkeley National Laboratory LabTech 2020 Presentation
+Tin Ho, Ling Jin.  
+[cache](https://tin6150.github.io/publication/doc/From_CSV_to_Web_GIS-LabTech2020.pdf)
+[AV recording](https://drive.google.com/file/d/1Z0uFfArhvFeoOnSl2jiSXr5M3nOXf6YY/view)
+
+
+SLURM Quick Start
+Getting started on HPC
+Lawrence Berkeley National Laboratory LabTech 2018 Presentation
+[cache](https://tin6150.github.io/publication/doc/SLURM_QuickStart_LBNL.pdf)
+
+
+
 # Other works with DOI
 
 Smelly-Odor Webtool (Smelly) v1
