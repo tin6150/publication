@@ -10,6 +10,9 @@ Ling Jin,Connor P. Jackson,Yuhan Wang,Qianmiao Chen,Tin Ho,C. Anna Spurlock,Aaro
 What Makes You Hold on to That Old Car? Joint Insights From Machine Learning and Multinomial Logit on Vehicle-Level Transaction Decisions. Frontiers in Future Transportation, Volume 3 - 2022
 [https://doi.org/10.3389/ffutr.2022.894654] 
 [cache](rm-copyright-concern-https://tin6150.github.io/publication/doc/2022_Frontiers_ML_Vehicle_Transaction.pdf)
+Ling Jin, Alina Lazar, Caitlin Brown, Bingrong Sun, Venu Garikapati,
+Srinath Ravulaparthy, Qianmiao Chen, Alexander Sim, Kesheng Wu, Tin Ho,
+Thomas Wenzel and C. Anna Spurlock
 
 
 # Conference & Posters

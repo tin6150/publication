@@ -1,0 +1,12 @@
+
+github pages publish this repo as:
+https://tin6150.github.io/publication/
+
+if there is no index.html, then github pages renders the README as landing page.
+preferred for this publication site.
+though the URL for doi vs cache link are rendered differently... 
+seems to be a github pages-specific rendering problem, as vscode preview of the md renders fine.
+
+
+
+
