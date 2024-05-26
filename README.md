@@ -1,5 +1,12 @@
 # Journal Publications
 
+
+Technology progress and clean vehicle policies on fleet turnover and equity: insights from household vehicle fleet micro-simulations with ATLAS.
+Transportation Planning and Technology, (2024), 1–24. 
+[https://doi.org/10.1080/03081060.2024.2353784]
+Ling Jin,Connor P. Jackson,Yuhan Wang,Qianmiao Chen,Tin Ho,C. Anna Spurlock,Aaron Brooker,Jacob Holden,Jeffrey Gonder,Mohamed Amine Bouzaghraned,Bingrong Sun,Shivam Sharda,Venu Garikapati,Tom Wenzel & Juan Caicedo
+
+
 What Makes You Hold on to That Old Car? Joint Insights From Machine Learning and Multinomial Logit on Vehicle-Level Transaction Decisions. Frontiers in Future Transportation, Volume 3 - 2022
 [https://doi.org/10.3389/ffutr.2022.894654] 
 [cache](rm-copyright-concern-https://tin6150.github.io/publication/doc/2022_Frontiers_ML_Vehicle_Transaction.pdf)
